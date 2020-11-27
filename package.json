@@ -1,8 +1,8 @@
 {
   "name": "nest-microservices-logger",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "A NestJS logger for generator-nest-microservices template",
+  "author": "Jason Magpantay",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -69,5 +69,14 @@
     },
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsnmgpnty/nest-microservices-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsnmgpnty/nest-microservices-logger/issues"
+  },
+  "homepage": "https://github.com/jsnmgpnty/nest-microservices-logger#readme"
 }
